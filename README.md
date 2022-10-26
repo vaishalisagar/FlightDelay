@@ -5,6 +5,7 @@
 1.1 Problem Statement
 
 A flight delay is when an airline flight takes off and/or lands later than its scheduled time. The Federal Aviation Administration (FAA) considers a flight to be delayed when it is 15 minutes later than its scheduled time. The Flight Delay Prediction finds the probability that a specific flight will be delayed or not. It is a binary classification problem where 1 refers to delay status and 0 is on time. The flight can be delayed due to multiple reason as below
+
 <img src= "https://www.faa.gov/sites/faa.gov/files/images/delay.jpg">
 
 1.2 Importance of the Analysis
